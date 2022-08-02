@@ -1,0 +1,21 @@
+# Rest-API-All command to run our code
+
+
+#Command to activate environment
+> pip install virtualenv
+> virtualenv env
+Only if error occur -
+
+> set-exceution policy unrestricted
+# Commands to install requiremnet
+
+>pip install flask
+>pip install -r requirements.txt 
+# Command to run code
+
+Whatever file name you give in our project we have given main.py
+
+Run > activate command before it 
+
+> .\env\script\activate.ps1 
+> python main.py
